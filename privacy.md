@@ -18,7 +18,7 @@ Wisflow:
 * Does not use third-party analytics
 * Does not use advertising SDKs
 * Does not track you across apps or websites
-* Does not require an account or login
+* Does require Apple or Google account to login
 
 If you enable iCloud backup through your Apple device settings, your app data may be included in your personal iCloud backups according to your Apple settings.
 
